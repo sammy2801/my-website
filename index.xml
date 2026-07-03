@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Samarth</title>
+      <link>https://samarth.ink</link>
+      <description>Last 10 notes on Samarth</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>More about me</title>
+    <link>https://samarth.ink/about</link>
+    <guid>https://samarth.ink/about</guid>
+    <description><![CDATA[ I have recently completed an MSc in Sociology (the course is called Culture &amp; Society) at the London School of Economics and Political Science. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:54:24 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://samarth.ink/</link>
+    <guid>https://samarth.ink/</guid>
+    <description><![CDATA[ Samarth An online portfolio / résumé Speculative Sociologist | Qualitative Researcher | Narrative Ethicist Hey, welcome to my tiny corner of the internet. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:54:24 GMT</pubDate>
+  </item><item>
+    <title>My work</title>
+    <link>https://samarth.ink/my-work</link>
+    <guid>https://samarth.ink/my-work</guid>
+    <description><![CDATA[ Placeholder — replace with your actual work/portfolio content. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:54:24 GMT</pubDate>
+  </item><item>
+    <title>Other work</title>
+    <link>https://samarth.ink/other-work</link>
+    <guid>https://samarth.ink/other-work</guid>
+    <description><![CDATA[ Placeholder — replace with your actual content. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:54:24 GMT</pubDate>
+  </item><item>
+    <title>Reading / watching list</title>
+    <link>https://samarth.ink/reading-watching-list</link>
+    <guid>https://samarth.ink/reading-watching-list</guid>
+    <description><![CDATA[ Placeholder — replace with your actual list. ]]></description>
+    <pubDate>Fri, 03 Jul 2026 12:54:24 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
